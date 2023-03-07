@@ -1,0 +1,6 @@
+pytest==7.2.1
+selenium==4.7.2
+webdriver-manager
+requests
+jsonschema
+Faker==16.5.0
